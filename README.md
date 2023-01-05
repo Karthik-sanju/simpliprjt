@@ -1,1 +1,2 @@
 # simpliprjt
+git add .
